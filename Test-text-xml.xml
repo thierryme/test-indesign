@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root><Root>Test   Modification 1</Root><Article>toto tutu tata</Article><Article>Changement de titre</Article></Root>
+<Root><Root>Test   Modification 1</Root><Article><Paragraphe>toto tutu tata</Paragraphe></Article><Article><Titre>Changement de titre</Titre></Article><Titre></Titre><Paragraphe></Paragraphe></Root>
